@@ -12,6 +12,8 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
+        <module>server-config</module>
+        <module>config-client</module>
         <module>eureka-server</module>
         <module>hello-service</module>
         <module>service-ribbon</module>
